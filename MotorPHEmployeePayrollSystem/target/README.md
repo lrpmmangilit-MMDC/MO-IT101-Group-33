@@ -40,7 +40,7 @@ To compute the total hours worked, the program applies a simple arithmetic formu
 
 Total Hours Worked = Time Out − Time In (with a grace period of 10 min)
 
-This calculation ensures that the employee’s break time is not included in the total working hours. The result is stored in a variable named totalHoursWorked.
+This calculation ensures that the employee’s break time is not included in the total working hours.
 
 Inline comments are included throughout the code to explain the purpose of each variable and the steps involved in the calculation. This helps improve readability and makes the program easier to understand and maintain.
 
@@ -61,6 +61,7 @@ Aleah Venice Declarador (Computation of Deductions to be Applied to Month's Seco
 Abigail Lausing (Computation of Deductions to be Applied to Month's Second Cut-off Gross Salary)
 
 Juliana Martina Relox (Computed Work Hours using Login and Logout)
+
 
 
 

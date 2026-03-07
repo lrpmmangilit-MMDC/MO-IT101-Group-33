@@ -1,8 +1,8 @@
-**CP1 – Milestone 2
+**CP1 – Milestone 2**
 
 
 
-MotorPH Employee Payroll System**
+**MotorPH Employee Payroll System**
 
 
 
@@ -61,6 +61,7 @@ Aleah Venice Declarador (Computation of Deductions to be Applied to Month's Seco
 Abigail Lausing (Computation of Deductions to be Applied to Month's Second Cut-off Gross Salary)
 
 Juliana Martina Relox (Computed Work Hours using Login and Logout)
+
 
 
 

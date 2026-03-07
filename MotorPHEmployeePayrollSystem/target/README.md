@@ -1,12 +1,12 @@
-CP1 – Milestone 2
+**CP1 – Milestone 2
 
 
 
-MotorPH Employee Payroll System
+MotorPH Employee Payroll System**
 
 
 
-Basic Payroll Program
+**Basic Payroll Program**
 
 
 
@@ -14,23 +14,23 @@ This program reads employee information and attendance records from CSV files, c
 
 
 
-Project References
+**Project References**
 
 
 
-Milestone 1 Output
+**Milestone 1 Output**
 
 https://www.canva.com/design/DAHAKoxzoNg/J4gFdD2tMWLMiLaWfnSkKQ/edit
 
 
 
-Effort Estimation and Project Plan Document
+**Effort Estimation and Project Plan Document**
 
 https://docs.google.com/spreadsheets/d/1-5q2XM30vREjyo-NGScc0rmIr1Fxj1u1aIpHaCDceBE/edit?gid=638087839#gid=638087839
 
 
 
-How the Program Works
+**How the Program Works**
 
 The program is a simple Java component of the MotorPH Payroll System that computes the total number of hours an employee worked in a day. The program demonstrates the use of variables, arithmetic operators, and clear output formatting to perform a basic payroll-related calculation.
 
@@ -50,7 +50,7 @@ Overall, this program demonstrates how Java variables and arithmetic operators c
 
 
 
-Members
+**Members**
 
 
 
@@ -61,5 +61,6 @@ Aleah Venice Declarador (Computation of Deductions to be Applied to Month's Seco
 Abigail Lausing (Computation of Deductions to be Applied to Month's Second Cut-off Gross Salary)
 
 Juliana Martina Relox (Computed Work Hours using Login and Logout)
+
 
 

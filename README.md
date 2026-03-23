@@ -1,36 +1,26 @@
 [README.md](https://github.com/user-attachments/files/26108026/README.md)
 
-**CP1 – Milestone 2**
-
-
+**CP1 – Terminal Assessment**
 
 **MotorPH Employee Payroll System**
 
-
-
 **Basic Payroll Program**
-
-
 
 This program reads employee information and attendance records from CSV files, calculates the total hours worked per payroll cutoff, computes the employee’s salary, applies government deductions, and displays a payroll summary for each month from June to December.
 
-
-
 **Project References**
 
-
-
-**Milestone 1 Output**
+Milestone 1 Output
 
 https://www.canva.com/design/DAHAKoxzoNg/J4gFdD2tMWLMiLaWfnSkKQ/edit
 
+Milestone 2 Output
 
+https://github.com/lrpmmangilit-MMDC/MO-IT101-Group-33
 
-**Effort Estimation and Project Plan Document**
+Effort Estimation and Project Plan Document
 
 https://docs.google.com/spreadsheets/d/1-5q2XM30vREjyo-NGScc0rmIr1Fxj1u1aIpHaCDceBE/edit?gid=638087839#gid=638087839
-
-
 
 **How the Program Works**
 
@@ -50,11 +40,7 @@ Finally, the program displays the results using System.out.println(), clearly la
 
 Overall, this program demonstrates how Java variables and arithmetic operators can be used to perform practical payroll calculations in a clear and organized manner.
 
-
-
 **Members**
-
-
 
 Pauline Mae Mangilit (Compilation, Employee Login, Computed Gross Salary per Cut-off)
 
@@ -63,8 +49,3 @@ Aleah Venice Declarador (Computation of Deductions to be Applied to Month's Seco
 Abigail Lausing (Computation of Deductions to be Applied to Month's Second Cut-off Gross Salary)
 
 Juliana Martina Relox (Computed Work Hours using Login and Logout)
-
-
-
-
-
